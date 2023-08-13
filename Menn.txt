@@ -1,0 +1,12 @@
+.//////////////////////////
+mongodb download
+
+1..to work in data-dash
+mongosh shell--copy to c program file--environent variable/path/edit(c:.//mongoshPath) then ok and also in next path 
+--create a db--show dbs/use todos/new power shell--show collections
+---ctrl+b(toggle On)
+
+1.db.createCollection("todos")
+2.db.user.insertOne({name:"html"})
+
+2..mongoshdb compass
